@@ -1,6 +1,6 @@
 {
   "name": "primo-explore-devenv",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "The Exlibris Primo Open Discovery Framework",
   "author": "noamamit92",
   "devDependencies": {
@@ -13,7 +13,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "babelify": "8.0.0",
     "bluebird": "3.5.4",
-    "browser-sync": "^2.26.5",
+    "browser-sync": "2.9.9",
     "browserify": "16.2.3",
     "camel-case": "^3.0.0",
     "colors": "^1.3.3",
@@ -26,7 +26,7 @@
     "fs-extra": "7.0.1",
     "glob": "7.1.3",
     "graceful-fs": "4.1.15",
-    "gulp": "4.0.1",
+    "gulp": "4.0.2",
     "gulp-angular-templatecache": "^2.2.7",
     "gulp-autoprefixer": "6.1.0",
     "gulp-babel": "7.0.1",
@@ -66,7 +66,7 @@
     "vinyl-source-stream": "2.0.0"
   },
   "engines": {
-    "node": ">=10.0"
+    "node": ">=16.17.0"
   },
   "browserslist": [
     "last 2 version",
